@@ -1,4 +1,4 @@
-FROM aarch64/ubuntu:16.04
+FROM lsiobase/xenial-root-arm64
 MAINTAINER sparklyballs
 
 # set version for s6 overlay
