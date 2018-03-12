@@ -1,4 +1,4 @@
-FROM lsiobase/xenial-root-arm64
+FROM lsiobase/bionic-root-arm64
 MAINTAINER sparklyballs
 
 # set version for s6 overlay
