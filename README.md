@@ -20,7 +20,7 @@
 &nbsp;
 &nbsp;
 
-[![](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/Dockerfile-Xenial-green.png)](https://github.com/linuxserver/docker-baseimage-ubuntu-armx6/blob/xenial/Dockerfile)
+[![](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/Dockerfile-Xenial-green.png)](https://github.com/linuxserver/docker-baseimage-ubuntu-arm64/blob/xenial/Dockerfile)
 
 [![](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/Dockerfile-Bionic-green.png)](https://github.com/linuxserver/docker-baseimage-ubuntu-arm64/blob/bionic/Dockerfile)
 
