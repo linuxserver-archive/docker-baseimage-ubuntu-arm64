@@ -20,11 +20,11 @@
 &nbsp;
 &nbsp;
 
-[![](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/Dockerfile-Xenial-green.png)](https://github.com/linuxserver/docker-baseimage-ubuntu-armhf/blob/xenial/Dockerfile)
+[![](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/Dockerfile-Xenial-green.png)](https://github.com/linuxserver/docker-baseimage-ubuntu-armx6/blob/xenial/Dockerfile)
 
-[![](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/Dockerfile-Bionic-green.png)](https://github.com/linuxserver/docker-baseimage-ubuntu-armhf/blob/bionic/Dockerfile)
+[![](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/Dockerfile-Bionic-green.png)](https://github.com/linuxserver/docker-baseimage-ubuntu-arm64/blob/bionic/Dockerfile)
 
-[![](https://images.microbadger.com/badges/image/lsiobase/xenial.armhf.svg)](https://microbadger.com/images/lsiobase/xenial.armhf "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/lsiobase/xenial.arm64.svg)](https://microbadger.com/images/lsiobase/xenial.arm64 "Get your own image badge on microbadger.com")
 
 A custom base image built with [Ubuntu cloud image][appurl] and [S6 overlay](https://github.com/just-containers/s6-overlay).. 
 
